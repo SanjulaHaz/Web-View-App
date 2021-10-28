@@ -23,7 +23,7 @@ class _MyAppState extends State<MyApp> {
           appBar: AppBar(
             title: Text('Web View App'),
           ),
-          url: 'https://digiwrecks.com/',
+          url: 'https://h2945398.stratoserver.net:3000/',
           debuggingEnabled: true,
           initialChild: Center(
             child: CircularProgressIndicator(),
